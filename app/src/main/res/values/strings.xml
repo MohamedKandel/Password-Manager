@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PassWord Manager</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="username_or_phone">Username or phone</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="log_in">Log-in</string>
+    <string name="username_or_phone_number">Username or Phone number</string>
+    <string name="todo">TODO</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="choose_your_secret_question">Choose your secret question</string>
+    <string name="answer">Answer</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="ok">Ok</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="username">Username</string>
+    <string name="username_or_e_mail">Username or E-mail</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="phone_number">Phone number</string>
+    <string name="answer_your_question">Answer your question</string>
+    <string name="already_have_account">Login with developer account</string>
+
+    <string-array name="questions">
+        <item>The name of your close friend</item>
+        <item>The city where were you born</item>
+        <item>Your favourite color</item>
+        <item>Your Nickname</item>
+        <item>Your school name</item>
+        <item>Your favourite food</item>
+        <item>Your favourite team</item>
+        <item>Your favourite pet</item>
+    </string-array>
+</resources>

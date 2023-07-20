@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2699FB</color>
+    <color name="colorPrimary2">#207FCF</color>
+    <color name="colorPrimary3">#0E6FC1</color>
+    <color name="colorPrimaryDark">#707070</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#fff</color>
+    <color name="Hint_Color_Dark">#BCE0FD</color>
+    <color name="Hint_Color_Light">#99B7CF</color>
+    <color name="Sign_up">#2699FB</color>
+    <color name="Sign_up_pressed">#1A77C6</color>
+    <color name="black">#000</color>
+    <color name="Sign_in">#00FF33</color>
+    <color name="Sign_in_pressed">#00BF26</color>
+    <color name="dialog">#3D5A80</color>
+    <color name="dark">#424242</color>
+    <color name="blue">#9c31fe</color>
+    <color name="red">#4d76e6</color>
+    <color name="bblue">#0daed3</color>
+</resources>
